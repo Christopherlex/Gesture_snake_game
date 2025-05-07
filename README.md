@@ -8,7 +8,7 @@ This is a simple Python-based implementation of the classic Snake game with hand
 4. Game Over State: The game ends if the snake collides with the walls or itself.
 5. Easy Restart: The game can be restarted by pressing 'R' after the game over screen appears.
 
-# Required Modules:
+# Required Modules
 1. cv2 (OpenCV) - A powerful library for computer vision tasks. It is used here for reading the webcam feed, processing images, and displaying the game interface.
 2. numpy - Used for creating and manipulating arrays, particularly the game grid and rendering the snake and food.
 3. cvzone - A library built on top of OpenCV that simplifies hand tracking and gesture recognition. It is used to detect hand movements and interpret them as snake direction changes.
